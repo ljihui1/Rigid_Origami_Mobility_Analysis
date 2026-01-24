@@ -8,6 +8,7 @@ in submiting.
 Copyright (c) 2026, Jihui Li, Jinye Zhu, Shaoxing Qu.
 
 ==========================================
+
 S1 Miura_singleVertex: Run "main_singleVertexMiura_mobilityAnalysis.m" to obtain the second-order compatibility equations of single-vertex Miura-ori; run "main_singleVertexMiura_motionSimulation.m" to trace motion branches of single-vertex Miura-ori at the flat deployed state.
 
 S2 Miura_twoVertex_row: Run "main_twoVertexMiura_mobilityAnalysis.m" to obtain the second-order compatibility equations of the Miura-ori with two vertices arranged in a row; run "main_twoVertexMiura_motionSimulation.m" to trace its different motion paths at the flat deployed state.
