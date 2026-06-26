@@ -3,9 +3,10 @@ GENERAL INFORMATION
 1. These MATLAB codes are released as supplementary materials for the Reference: 
 	Jihui Li, Jinye Zhu, Shaoxing Qu,
 	"A general mobility analysis framework to reveal non-intuitive kinematic characteristics of rigid origami",
-	Proceedings of the National Academy of Sciences,  (volume and DOI when available).
+	Proceedings of the National Academy of Sciences,DOI: 10.1073/pnas.2602778123.
+	If you use any part of this code in your work, you MUST cite this paper.
 
-2. Author Information
+3. Author Information
 	A.Corresponding author: 
 		Shaoxing Qu
 		Zhejiang University, Hangzhou, China
@@ -14,13 +15,6 @@ GENERAL INFORMATION
 		Jihui Li
 		Zhejiang University, Hangzhou, China
 		Email:  jihuili@mail.nwpu.edu.cn
-
-3. If you use any part of this code in your work, you MUST cite the following paper:
-
-	Jihui Li, Jinye Zhu, Shaoxing Qu,
-	"A general mobility analysis framework to reveal non-intuitive kinematic characteristics of rigid origami",
-	Proceedings of the National Academy of Sciences,  (volume and DOI when available).
-
 
 DATA & FILE OVERVIEW
 
